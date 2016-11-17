@@ -38,3 +38,5 @@ NSArray * titleNameArr;
  */
 - (void)createMaskLabelWithbackColor:(UIColor *)backColor frontColor:(UIColor *)frontColor labelText:(NSString *)labelText labelFont:(UIFont* )labelFont maskLayerFrame:(CGRect)maskLayerFrame  maskCornerRadius:(NSInteger)maskCornerRadius maskColor:(UIColor *)maskColor ;
 ```
+
+###喜欢的给我点个start。 还有其他的文章在我的简书上[我的简书](http://www.jianshu.com/users/ee84d859d5f0/latest_articles)。
